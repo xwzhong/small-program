@@ -1,0 +1,1 @@
+在对文件内容或字符串进行JSON反序列化（deserialize）时，由于原始内容编码问题，可能需要对反序列化后的内容进行编码处理（如将unicode对象转换为str）。 将字符串类型的json数据使用json.loads转为json时，可以使用_decode_dict函数进行编码处理
