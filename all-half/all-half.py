@@ -15,7 +15,7 @@ def all2half(unicode_string):
 def half2all(unicode_string):  
     """半角转全角"""  
     rstring = ""  
-    for uchar in ustring:  
+    for uchar in unicode_string:
         inside_code=ord(uchar)  
         if inside_code == 32:#半角空格直接转化                    
             inside_code = 12288  
