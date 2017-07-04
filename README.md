@@ -4,6 +4,7 @@
 # list
 
 * [all-half](https://github.com/xwzhong/small-program/tree/master/all-half)：字符全角和半角之间的转化函数
+* [chinese](https://github.com/xwzhong/small-program/tree/master/chinese)：繁体转简体
 * [mail](https://github.com/xwzhong/small-program/tree/master/mail)：通过程序发送邮件到指定用户（组）
 * [mat-to-txt](https://github.com/xwzhong/small-program/tree/master/mat-to-txt)：将mat格式数据转为txt
 * [scel-to-txt](https://github.com/xwzhong/small-program/tree/master/scel-to-txt)：将后缀为scel的词典转为txt格式
