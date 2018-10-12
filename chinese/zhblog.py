@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 """
-@arthor: zhongxinwang
+@author: zhongxinwang
 @date: 2016-12-18
 """
 
